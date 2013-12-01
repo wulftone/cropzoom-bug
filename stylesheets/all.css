@@ -1,0 +1,19 @@
+body {
+  width: 400px;
+  margin: 20px auto;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+#zoomMax,
+#zoomSlider,
+#zoomMin {
+  display: inline-block;
+  margin: 0 10px;
+  line-height: 21px;
+  vertical-align: middle;
+}
+
+#zoomSlider {
+  width: 300px;
+}
